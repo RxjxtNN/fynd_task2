@@ -37,6 +37,12 @@ A dual-dashboard application for collecting and analyzing user feedback using Py
 - **Admin Dashboard**: Streamlit Cloud (separate app, keep URL private)
 - **LLM**: Google Gemini API
 
+## Live Deployment
+
+**User Dashboard**: https://fyndtask2-brjhm3ynnooy8eidvwixg5.streamlit.app/
+
+**Admin Dashboard**: https://fyndtask2-qesk8gauyybwew2kgtqn9g.streamlit.app/
+
 ## Deployment on Streamlit Community Cloud
 
 ### Step 1: Set Up PostgreSQL Database
@@ -71,8 +77,8 @@ git push -u origin main
 
 ### Final URLs
 Once deployed, you'll have:
-- **User Dashboard**: `https://your-user-app.streamlit.app/` (share publicly)
-- **Admin Dashboard**: `https://your-admin-app.streamlit.app/` (keep private)
+- **User Dashboard**: https://fyndtask2-brjhm3ynnooy8eidvwixg5.streamlit.app/ (share publicly)
+- **Admin Dashboard**: https://fyndtask2-qesk8gauyybwew2kgtqn9g.streamlit.app/ (keep private)
 
 ## Project Structure
 - `User_Dashboard.py`: Main entry point (User UI).
